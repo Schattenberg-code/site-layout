@@ -42,3 +42,9 @@ body{
 .cima{
     margin-top: 0;
 }
+
+.voltar{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
