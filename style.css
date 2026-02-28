@@ -47,4 +47,42 @@ body{
     font-size: 30px;
     text-align: center;
     margin-top: 20px;
+    a{
+        color: white;
+    }
+    color: white;
+}
+
+
+
+
+/*
+===============================
+==============Index============
+===============================
+*/
+
+#index{
+    background-color: black;
+}
+
+#cabeca{
+    color: white;
+    text-align: center;
+}
+
+.layouts{
+    font-size: 30px;
+    padding-top: 20px;
+    max-width: 120px;
+    text-align: center;
+}
+
+.links{
+    color: white;
+}
+
+.flexlinks{
+    display: flex;
+    justify-content: center;
 }
